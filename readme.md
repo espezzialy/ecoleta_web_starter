@@ -40,7 +40,7 @@
 Você precisa instalar o [Node.js](https://nodejs.org/en/download/) primeiro e, em seguida, para clonar o projeto via HTTPS, execute este comando:
 
 ```
-git clone https://github.com/jeffeloy/ecoleta-backend.git
+git clone https://github.com/espezzialy/next_level_week-starter
 ```
 
 ### Instalar dependências
@@ -56,10 +56,6 @@ Execute o seguinte comando para iniciar o aplicativo em um ambiente de desenvolv
 ```
 npm start
 ```
-
-## :tada: Contribuir
-
-Confira a [contributing](https://github.com/jeffeloy/ecoleta-backend/blob/master/CONTRIBUTING.md) página para ver os melhores locais para arquivar problemas, iniciar discussões e começar a contribuir.
 
 ## :green_book: License
 
