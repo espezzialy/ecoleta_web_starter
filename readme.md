@@ -2,7 +2,7 @@
    <img src="./.github/logo.png" width="150"/>
 </p> -->
 
-# :recycle: Ecoleta API
+# :recycle: Ecoleta API - NextLevelWeek - STARTER
 
 > Aplicação para conectar empresas coletoras de resíduos orgânicos ou inorgânicos com pessoas que tem a necessidade de descartar esses resíduos.
 
