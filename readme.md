@@ -17,11 +17,11 @@
 
 ## :bulb: Objetivo
 
-| Desenvolver uma api rest full para cadastrar as informações dessas empresas e seus pontos de coleta.
+| Desenvolver uma aplicação com Front em HTML/CSS e Javascript, e BackEnd em node.js
 
 ## :black_nib: Justificativa
 
-| Resolvi adicionar essa aplicação ao meu portifólio pela grande quantidade de conhecimentos que poderei absorver. E para aumentar o meu domínio sobre o ecossistema do JavaScript e essa incrível stack (NodeJS,React e React Native).
+| Resolvi adicionar essa aplicação ao meu portifólio nas duas versões pela grande quantidade de conhecimentos que poderei absorver. Na versão starter há muito mais aplicação de conceitos básicos, e funcionalidades do html e css.
 
 ## 👨🏼‍💻 Autores
 
@@ -32,30 +32,8 @@
 ## :computer: Tecnologias
 
 - Java Script
-- Type Script
+- HTML/CSS
 - Node.js
-
-## :construction_worker: Instalação
-
-Você precisa instalar o [Node.js](https://nodejs.org/en/download/) primeiro e, em seguida, para clonar o projeto via HTTPS, execute este comando:
-
-```
-git clone https://github.com/espezzialy/next_level_week-starter
-```
-
-### Instalar dependências
-
-```
-npm install
-```
-
-## :running: Inicializando
-
-Execute o seguinte comando para iniciar o aplicativo em um ambiente de desenvolvimento:
-
-```
-npm start
-```
 
 ## :green_book: License
 
