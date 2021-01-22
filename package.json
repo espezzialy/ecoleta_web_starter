@@ -4,7 +4,8 @@
   "description": "<!-- <p align=\"center\">\r    <img src=\"./.github/logo.png\" width=\"150\"/>\r </p> -->",
   "main": "src/server.js",
   "scripts": {
-    "start": "nodemon src/server.js"
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
